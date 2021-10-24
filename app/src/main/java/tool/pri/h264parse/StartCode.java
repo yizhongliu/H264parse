@@ -12,4 +12,8 @@ public class StartCode {
     long getNaluStartIndex() {
         return index;
     }
+
+    int getNaluStartSize() {
+        return size;
+    }
 }
